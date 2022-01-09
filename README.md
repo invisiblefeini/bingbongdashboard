@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/invisiblefeini/bingbongdashboard/blob/main/images/chartfriend.png" />
 </p>
 
